@@ -1,6 +1,6 @@
 AZURE_LOCATION: 'eastus'
-RESOURCE_NAME_PREFIX: 'az-apimlz01'
-ENVIRONMENT_TAG: 'production'
+RESOURCE_NAME_PREFIX: 'apimlz01'
+ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'apim-demo-deployment'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: 'repalce me in repo secrets'
