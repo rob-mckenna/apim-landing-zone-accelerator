@@ -1,5 +1,5 @@
 AZURE_LOCATION: 'eastus'
-RESOURCE_NAME_PREFIX: 'apimlz01'
+RESOURCE_NAME_PREFIX: 'apimlz03'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'apim-demo-deployment'
 VM_USERNAME: 'agent'
